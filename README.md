@@ -1,0 +1,2 @@
+# Hitech
+personal mode
